@@ -1,2 +1,2 @@
 # cash-shell
-I created my first real C++ project. It is a basic shell. Yes, I did use the help of AI, but doing this thought me a lot of concept of system programming.
+I created my first real C++ project. It is a basic shell. Yes, I did use the help of AI, but doing this thought me a lot of concept of system programming.So, I created this shell just as fun beginner project in a weekend. I know this is completely useless code as for now, but if you want, then you can use this shell and give me feedback. I will keep improving the code and make other fun projects as well.
